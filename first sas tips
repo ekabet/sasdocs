@@ -1,0 +1,10 @@
+# 1. make your log open automaticly
+# 2.set a shortcut to clean log and output
+
+https://blogs.sas.com/content/sastraining/2012/02/13/3-sas-display-manager-shortcuts/
+[sas docs](https://blogs.sas.com/content/sastraining/2012/02/13/3-sas-display-manager-shortcuts/)
+
+type 'Autopop on; wsave;' in command line;
+this will open log after submitting a programm.
+ 
+Type 'keys' and put in command key and 'Clear Log; Clear Output; Submit;' to this command key.
